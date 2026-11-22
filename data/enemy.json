@@ -1,0 +1,13 @@
+{
+  "training_dummy": {"id":"training_dummy","name":"Учебный манекен","type":"training","max_hp":30,"damage":3,"block":0,"ai":{"attack_chance":45,"strong_chance":0,"defense_chance":0,"strong_bonus":0,"attack_bonus":0,"defense_block":0}},
+  "skeleton_warrior": {"id":"skeleton_warrior","name":"Скелет-воин","type":"normal","max_hp":38,"damage":7,"block":4,"ai":{"attack_chance":70,"strong_chance":0,"defense_chance":0,"strong_bonus":0,"attack_bonus":0,"defense_block":4}},
+  "ash_hound": {"id":"ash_hound","name":"Пепельный гончий","type":"aggressive","max_hp":32,"damage":6,"block":0,"ai":{"attack_chance":80,"strong_chance":20,"defense_chance":0,"strong_bonus":3,"attack_bonus":1,"defense_block":0}},
+  "swamp_raider": {"id":"swamp_raider","name":"Болотный мародёр","type":"guard","max_hp":48,"damage":8,"block":6,"ai":{"attack_chance":55,"strong_chance":0,"defense_chance":35,"strong_bonus":0,"attack_bonus":0,"defense_block":6}},
+  "grave_cultist": {"id":"grave_cultist","name":"Культист могилы","type":"heavy","max_hp":42,"damage":9,"block":3,"ai":{"attack_chance":35,"strong_chance":55,"defense_chance":10,"strong_bonus":5,"attack_bonus":0,"defense_block":3}},
+  "thorn_witch": {"id":"thorn_witch","name":"Ведьма терновника","type":"caster","max_hp":40,"damage":6,"block":5,"ai":{"attack_chance":50,"strong_chance":25,"defense_chance":25,"strong_bonus":4,"attack_bonus":2,"defense_block":5}},
+  "fallen_knight": {"id":"fallen_knight","name":"Падший рыцарь","type":"elite","max_hp":72,"damage":12,"block":8,"ai":{"attack_chance":25,"strong_chance":45,"defense_chance":30,"strong_bonus":5,"attack_bonus":1,"defense_block":8}},
+  "blood_guard": {"id":"blood_guard","name":"Кровавый страж","type":"elite_guard","max_hp":85,"damage":11,"block":12,"ai":{"attack_chance":30,"strong_chance":35,"defense_chance":35,"strong_bonus":4,"attack_bonus":2,"defense_block":12}},
+  "abyssal_beast": {"id":"abyssal_beast","name":"Зверь бездны","type":"elite_heavy","max_hp":90,"damage":14,"block":6,"ai":{"attack_chance":20,"strong_chance":70,"defense_chance":10,"strong_bonus":7,"attack_bonus":2,"defense_block":6}},
+  "ancient_demon": {"id":"ancient_demon","name":"Древний демон","type":"boss","max_hp":120,"damage":15,"block":10,"ai":{"attack_chance":20,"strong_chance":50,"defense_chance":30,"strong_bonus":6,"attack_bonus":2,"defense_block":10}},
+  "hollow_king": {"id":"hollow_king","name":"Полый король","type":"boss","max_hp":145,"damage":17,"block":14,"ai":{"attack_chance":15,"strong_chance":55,"defense_chance":30,"strong_bonus":8,"attack_bonus":3,"defense_block":14}}
+}

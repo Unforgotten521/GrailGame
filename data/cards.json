@@ -1,0 +1,42 @@
+[
+  {
+    "id": "strike",
+    "name": "Удар",
+    "cost": 1,
+    "damage": 6,
+    "type": "attack",
+    "description": "Наносит 6 урона."
+  },
+  {
+    "id": "defend",
+    "name": "Защита",
+    "cost": 1,
+    "block": 5,
+    "type": "skill",
+    "description": "Даёт 5 блока."
+  },
+  {
+    "id": "heavy_strike",
+    "name": "Тяжёлый удар",
+    "cost": 2,
+    "damage": 12,
+    "type": "attack",
+    "description": "Наносит 12 урона."
+  },
+  {
+    "id": "ghost_stance",
+    "name": "Призрачная стойка",
+    "cost": 1,
+    "block": 8,
+    "type": "skill",
+    "description": "Даёт 8 блока."
+  },
+  { 
+    "id": "cleaving_blow",
+    "name": "Рассекающий удар",
+    "cost": 1,
+    "damage": 9,
+    "type": "attack",
+    "description": "Наносит 9 урона."
+  }
+]
